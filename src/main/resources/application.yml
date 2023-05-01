@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: accumulus
+  data:
+    mongodb:
+      uri: mongodb://accumulus-monogdb:27017/accumulus
+server:
+  port: 8080
+  servlet:
+    context-path: /accumulus

@@ -1,0 +1,72 @@
+[
+  {
+    "email": "u1",
+    "toppings": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e"
+    ]
+  },
+  {
+    "email": "u2",
+    "toppings": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "email": "u3",
+    "toppings": [
+      "b"
+    ]
+  },
+  {
+    "email": "u4",
+    "toppings": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "email": "u5",
+    "toppings": [
+      "d",
+      "e"
+    ]
+  },
+  {
+    "email": "u6",
+    "toppings": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "email": "u7",
+    "toppings": [
+      "a"
+    ]
+  },
+  {
+    "email": "u8",
+    "toppings": [
+      "d"
+    ]
+  },
+  {
+    "email": "u9",
+    "toppings": [
+      "b",
+      "d"
+    ]
+  },
+  {
+    "email": "u10",
+    "toppings": [
+      "b"
+    ]
+  }
+]
