@@ -16,6 +16,7 @@ class CustomerToppingsController {
 
     @GetMapping(produces = [MediaType.APPLICATION_JSON_VALUE])
     fun getCustomerToppings(): List<CustomerToppings> {
+        //json file from /src/main/resources
         val jsonStream =
             ClassPathResource("./customer_toppings.json").inputStream
         val objectMapper = jacksonObjectMapper()
